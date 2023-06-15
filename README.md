@@ -1,4 +1,4 @@
-# learnFlask_jQuery
+# learnFlask_JS
 In this project backend is written on Python with using Flask and frontend is coded on JavaScript with jQuery.
 
 ## How to start
